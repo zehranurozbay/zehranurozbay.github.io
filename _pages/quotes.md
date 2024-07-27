@@ -6,11 +6,11 @@ author_profile: true
 
 > The only way to rectify our reasonings is to make them as tangible as those of the Mathematicians, so that we can find our error at a glance, and when there are disputes among persons, we can simply say: Let us calculate, without further ado, to see who is right. Gottfried wilhelm Leibniz
 
-> He who receives an idea from me, receives instruction himself without lessening mine; as he who lights his taper at mine, receives light without darkening me.Thomas Jefferson
+> He who receives an idea from me, receives instruction himself without lessening mine; as he who lights his taper at mine, receives light without darkening me. Thomas Jefferson
 
 > When you're in love, you want to tell the world. Carl Sagan
 
-> We must know. We will know, David Hilbert
+> We must know. We will know. David Hilbert
 
 > Don't compare your beginning to someone else's middle, or your middle to someone else's end. Jon Acuff
 

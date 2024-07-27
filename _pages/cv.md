@@ -59,12 +59,12 @@ redirect_from:
 * Asymptotic Analysis
 * Applied Mathematics I
 * Numerical Solutions of Ordinary Differential Equations
-* Complex Calsulus
+* Complex Calculus
 * Partial Differential Equations
 * Numerical Analysis II
 * Numerical Analysis I
 * Theory of Probability
-* Algebra 1
+* Algebra I
 * Introduction to Topology
 * Differential Geometry
 * Computer Algebra Systems
@@ -128,5 +128,3 @@ redirect_from:
 * İstanbul Discrete Mathematics Meetings, Boğaziçi University, December 16, 2014
 * Workshop on Graph Theory and Its Applications IV, Boğaziçi University, October 2014
 
-<!--(have some experience in Spring Boot Framework - developed small-scale Hotel Reservation System) 
- (have experience in Selenium Automation Framework with Python)-->
