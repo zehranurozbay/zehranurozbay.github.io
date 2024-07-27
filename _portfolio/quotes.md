@@ -1,7 +1,7 @@
 
 ---
 title: "Some quotes I saved"
-excerpt: ""
+excerpt: "Quotes"
 collection: portfolio
 ---  
 
