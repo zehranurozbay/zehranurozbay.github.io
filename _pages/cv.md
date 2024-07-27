@@ -53,8 +53,9 @@ redirect_from:
 * Linear Algebra 
 * Graph Theory
 * Mathematical Modelling and Its Philosophy
+* Introduction to Functional Analysis
 * Mathematical Methods in Computer Aided Geometric Design
-* Nonlinear Differential Equaitons and Dynamic Systems
+* Nonlinear Differential Equaitons and Dynamical Systems
 * Asymptotic Analysis
 * Applied Mathematics I
 * Numerical Solutions of Ordinary Differential Equations
@@ -80,6 +81,7 @@ redirect_from:
 * Discrete Mathematics
 * Analytic Geometry
 * Technical English I
+* Fundamentals of Mathematics I
 * Calculus I
 
 ## Work Experience
