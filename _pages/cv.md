@@ -11,35 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Information Technologies, Ege University, 2027 (expected)
+* M.S. in Information Technologies with GPA 3.93/4.00, Ege University, 2023
+* M.S in Mathematics with GPA 3.64/4.00, Gebze Technical University, 2015 
+* B.S. in Mathematics with GPA 3.41/4.00, Dokuz Eylul University, 2013
+  * 100% English-taught program. 
+  * Prep Class 2008-2009
 
-Work experience
+Thesis
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June 2023, Derin Paket İnceleme Araçlarında Performansı Artırma Üzerine Bir Çalışma.
+* August 2015, 2-factorization of Complete Equipartite Graphs with Four and Eight Cycles.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Work Experience
+======
+* March 2020- present: Research Assistant in Ege University, International Computer Institute.
+* 2016-2017: Mathematics Teacher in Assorted Middle Schools in Izmir.
   
-Skills
+Programming Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C/C++
+* Java 
+  * have some experience in Spring Boot Framework (developed small-scale Hotel Reservation System)
+* Python
+  * have experience in Selenium Automation Framework with Python
+* HTML, CSS
+* LaTeX
 
 Publications
 ======
@@ -47,18 +44,27 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Projects
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Assited Courses
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Certificates
 ======
-* Currently signed in to 43 different slack teams
+* Pedagogical Formation Training Certificate, June 2016
+* Selenium Webdriver with Python from Scartch + Frameworks, July 26, 2022
+* Some ongoing Udemy courses not finished yet
+  
+Conferences Attended
+======
+* Yapay Öğrenme Yaz Okulu, Bilkent University, June 29 - July 2, 2020
+* Uzaktan Eğitim, İş ve Kariyer- 5N1K-Çevrimiçi Konferansı, Muğla Sıtkı Koçman University, May 8-9-10, 2020
+* İstanbul Discrete Mathematics Meetings, Boğaziçi University, December 16, 2014
+* Workshop on Graph Theory and Its Applications IV, Boğaziçi University, October 2014
