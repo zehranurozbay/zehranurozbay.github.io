@@ -120,6 +120,12 @@ redirect_from:
 * Pedagogical Formation Training Certificate, June 2016
 * Selenium Webdriver with Python from Scartch + Frameworks, July 26, 2022
 * Some ongoing Udemy courses
+
+## Exam Scores
+
+* ALES (Academic Personnel and Graduate Education Entrance Exam in Türkiye - similar to GRE/GMAT) : 91/100
+* YDS (Foreign Language Knowledge Level Determination Exam in Türkiye): 91/100
+* IELTS: Overall 7
   
 ## Conferences Attended
 
