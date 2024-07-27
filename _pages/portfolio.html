@@ -8,7 +8,14 @@ author_profile: true
 {% include base_path %}
 
 
-{% for post in site.portfolio %}
+<!-- {% for post in site.portfolio %}
   {% include archive-single.html %}
+{% endfor %} -->
+
+{% for post in site.portfolio %}
+  <div class="quote">
+    <h2>{{ post.title }}</h2>
+    <p>{{ post.content }}</p>
+  </div>
 {% endfor %}
 
