@@ -23,12 +23,12 @@ redirect_from:
 * August 2015, 2-factorization of Complete Equipartite Graphs with Four and Eight Cycles.
 
 ## Courses Taken So Far in Backwards Order
-* **Note**  There are some details that are more meaningful than your graduation date
+* **Note.**  There are some details that are more meaningful than your graduation date:
 * Algorithm Complexity Theory 
 * Internet of Things
   * Throughout the course a lot of work has been done on microcontrollers Arduino Uno and ESP32 using sensors such as DHT, LDR, PIR, Tilt, HC-SR04, Piezo Knock, Water Level, Sound and Potentiometer.
 * Parallel Programming
-  * MPI (Message Passing Interface), Pthreads (POSIX Threads) for shared memory, CUDA (Compute Unified Device Architecture) for GPU programming.
+  * Worked on MPI (Message Passing Interface) library, Pthreads (POSIX Threads) library for shared memory, CUDA (Compute Unified Device Architecture) platform for GPU programming.
 * Advanced Computer Architecture
 * Distributed Algorithms
 * Object Oriented Programming
@@ -56,25 +56,31 @@ redirect_from:
 * Mathematical Methods in Computer Aided Geometric Design
 * Nonlinear Differential Equaitons and Dynamic Systems
 * Asymptotic Analysis
-* Applied MAthematics 1
+* Applied Mathematics I
 * Numerical Solutions of Ordinary Differential Equations
 * Complex Calsulus
 * Partial Differential Equations
-* Numerical Analysis 2
-* Numerical Analysis 1
+* Numerical Analysis II
+* Numerical Analysis I
 * Theory of Probability
 * Algebra 1
 * Introduction to Topology
 * Differential Geometry
 * Computer Algebra Systems
-* Analysis 2
-* Linear Algebra 2
-* Differential Equations 2
+* Analysis II
+* Linear Algebra II
+* Differential Equations II
 * Algorithms and Programming
-* Analysis 1
-* Linear Algebra 1
-* Differential Equations 1
-* 
+* Analysis I
+* Linear Algebra I
+* Differential Equations I
+* Calculus II
+* Technical English II
+* Fundamentals of Mathematics II
+* Discrete Mathematics
+* Analytic Geometry
+* Technical English I
+* Calculus I
 
 ## Work Experience
 
