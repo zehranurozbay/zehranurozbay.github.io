@@ -4,6 +4,8 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/22-23-Spring
 venue: "Ege University, International Computer Institute"
+date: 2023-02-01
+location: "Izmir, Turkey"
 ---
 
 <!--  This is a description of a teaching experience. You can use markdown like any other post. -->
