@@ -6,6 +6,10 @@ author_profile: true
 
 > The only way to rectify our reasonings is to make them as tangible as those of the Mathematicians, so that we can find our error at a glance, and when there are disputes among persons, we can simply say: Let us calculate, without further ado, to see who is right. Gottfried wilhelm Leibniz
 
+> He who receives an idea from me, receives instruction himself without lessening mine; as he who lights his taper at mine, receives light without darkening me.Thomas Jefferson
+
+> When you're in love, you want to tell the world. Carl Sagan
+
 > We must know. We will know, David Hilbert
 
 > Don't compare your beginning to someone else's middle, or your middle to someone else's end. Jon Acuff
@@ -40,9 +44,11 @@ author_profile: true
 
 > Slow success builds character, and fast success builds ego. Ratan Tata
 
-> In academia, we don't say "I love you" we say "I am accepting your paper with no request for revisions. Prof Lennart Nacke
+> In academia, we don't say "I love you" we say "I am accepting your paper with no request for revisions. Prof. Lennart Nacke
 
 > If you crush a cockroach, you're a hero. If you crush a beautiful butterfly, you're a villain. Morals have aesthetic criteria. Friedrich Nietzsche 
+
+> Rudeness is merely the expression of fear. People fear they won't get what they want. The most dreadful and unattractive person only needs to be loved, and they will open up like a flower. M. Gustave / The Grand Budapest Hotel
 
 > As you start to walk on the way, the way appears. Rumi
 
@@ -51,3 +57,11 @@ author_profile: true
 > Neyin doğru olduğunu anlıyoruz da, niçin doğru olduğunu anlamıyoruz. Neyin doğru olduğunu değil, niçin doğru olduğunu anlamaya çalışacaksın. Bunu anlamazsan eğer sen yüzeysel birisin demektir, fazla derine inemezsin. Ali Nesin
 
 > Believe nothing you hear, and only one half that you see. Edgar Allen Pole
+
+> OLD IRISH BLESSING
+May the road rise up to meet you.
+May the wind be always at your back.
+May the sun shine warm upon your face;
+The rains fall soft upon your fields and until we meet again,
+May God hold you in the palm of His hand.
+
