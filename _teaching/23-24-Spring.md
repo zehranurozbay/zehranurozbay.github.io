@@ -1,7 +1,7 @@
 ---
-title: "23-24-Spring"
+title: "23-24 Spring"
 collection: teaching
-type: "Graduate course"
+type: "Graduate courses"
 permalink: /teaching/23-24-Spring
 venue: "Ege University, International Computer Institute"
 date: 2024-02-01
