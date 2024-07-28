@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student and research assistant at the Department of Information Technologies at Ege University International Computer Institute.
+I am a first year PhD student and research assistant at the Department of Information Technologies at Ege University International Computer Institute.
 My research interests are Information Security and Cryptology, Information Systems and Machine Learning lately. 
 
 

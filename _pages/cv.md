@@ -23,7 +23,9 @@ redirect_from:
 * August 2015, 2-factorization of Complete Equipartite Graphs with Four and Eight Cycles.
 
 ## Courses Taken So Far in Backwards Order
-* **Note.**  There are some details that are more meaningful than your graduation date:
+
+**Note:**  There are some details that are more meaningful than your graduation date:
+
 * Algorithm Complexity Theory 
 * Internet of Things
   * Throughout the course a lot of work has been done on microcontrollers Arduino Uno and ESP32 using sensors such as DHT, LDR, PIR, Tilt, HC-SR04, Piezo Knock, Water Level, Sound and Potentiometer.
@@ -119,12 +121,14 @@ redirect_from:
 
 * Pedagogical Formation Training Certificate, June 2016
 * Selenium Webdriver with Python from Scartch + Frameworks, July 26, 2022
-* Some ongoing Udemy courses
+* Some ongoing Udemy courses 
 
 ## Exam Scores
 
-* ALES (Academic Personnel and Graduate Education Entrance Exam in Türkiye - similar to GRE/GMAT) : 91/100
-* YDS (Foreign Language Knowledge Level Determination Exam in Türkiye): 91/100
+* ALES: 91/100
+  * Academic Personnel and Graduate Education Entrance Exam in Türkiye - similar to GRE/GMAT 
+* YDS: 91/100
+  * Foreign Language Knowledge Level Determination Exam in Türkiye
 * IELTS: Overall 7
   
 ## Conferences Attended
