@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/1001-Project-Graphs
 venue: "Gebze Technical University"
 date: 2013-09-01
-location: "Gebze, Turkey"
+location: "Gebze, Türkiye"
 ---
 
 Between 2013 and 2015, I worked as a fellow in the project called "Cycle Decompositions of Graphs" supported by TUBITAK's 1001-coded Scientific and Technological Research Projects Support Program.
