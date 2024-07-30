@@ -21,7 +21,7 @@ repository               : "zehranurozbay/zehranurozbay.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profileImage2.jpeg"
+  avatar           : "profileImage2.jpg"
   name             : "Zehra Nur Özbay"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at Ege University International Computer Institute"

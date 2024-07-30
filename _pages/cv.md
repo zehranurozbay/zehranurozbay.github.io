@@ -61,7 +61,7 @@ redirect_from:
 * Asymptotic Analysis
 * Applied Mathematics I
 * Numerical Solutions of Ordinary Differential Equations
-  * Our lecturer, Prof. Dr. Şennur Somalı, made coffee for us with her own hands in this course. It is one of the lessons I can never forget.
+  * Our lecturer, Prof. Dr. Şennur Somalı, made coffee for us with her own hands in this course. It is one of the lectures I can never forget.
 * Complex Calculus
 * Partial Differential Equations
 * Numerical Analysis II
@@ -95,8 +95,8 @@ redirect_from:
 ## Technical Skills
 
 * Programming Languages: C/C++, Java, Python, TypeScript, JavaScript
-* Web Development: HTML, CSS
-* Back-End Development: NodeJs
+* Web Development: HTML, CSS, Bootstrap
+* Back-End Development: Node.js
 * Frameworks: Angular, Spring Boot, Express, Selenium Web Driver
 * Typesetting and Documentation: LaTeX
 
