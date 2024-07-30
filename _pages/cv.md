@@ -92,7 +92,7 @@ redirect_from:
 * March 2020- present: Research Assistant in Ege University, International Computer Institute.
 * 2016-2017: Mathematics Teacher in Assorted Middle Schools in Izmir.
   
-## Techinical Skills
+## Technical Skills
 
 * Programming Languages: C/C++, Java, Python, TypeScript, JavaScript
 * Web Development: HTML, CSS
