@@ -15,7 +15,6 @@ redirect_from:
 * M.Sc. in Information Technologies with GPA 3.93/4.00, Ege University, 2023
 * M.Sc. in Mathematics with GPA 3.64/4.00, Gebze Technical University, 2015 
 * B.Sc. in Mathematics (100% English) with GPA 3.41/4.00, Dokuz Eylul University, 2013
-  * Prep Class 2008-2009
 
 ## Theses
 
@@ -28,13 +27,13 @@ redirect_from:
 
 * Algorithm Complexity Theory 
 * Internet of Things
-  * Throughout the course a lot of work has been done on microcontrollers Arduino Uno and ESP32 using sensors such as DHT, LDR, PIR, Tilt, HC-SR04, Piezo Knock, Water Level, Sound and Potentiometer.
+  * Worked with microcontrollers including Arduino Uno and ESP32, utilizing sensors such as DHT, LDR, PIR, Tilt, HC-SR04, Piezo Knock, Water Level, Sound, and Potentiometer.
 * Parallel Programming
-  * Worked on MPI (Message Passing Interface) library, Pthreads (POSIX Threads) library for shared memory, CUDA (Compute Unified Device Architecture) platform for GPU programming.
+  * Wrote programs using the MPI (Message Passing Interface) library for distributed computing, the Pthreads (POSIX Threads) library for shared memory parallelism, and the CUDA (Compute Unified Device Architecture) platform for GPU programming.
 * Advanced Computer Architecture
 * Distributed Algorithms
 * Object Oriented Programming
-  * Project: Developed a small-scale hotel reservation system using the Spring Boot framework for Java, Lock-Condition interface for synchronization, PostgreSQL for the database, and Angular for the frontend.
+  * Project: Developed a small-scale hotel reservation system using the Spring Boot framework in Java, the Lock-Condition interface for synchronization, PostgreSQL for the database, and Angular for the frontend
 * Network Security
 * Fundamental Algorithmic Techniques
 * Computer Networks
@@ -120,9 +119,8 @@ redirect_from:
 
 ## Certificates
 
-* Pedagogical Formation Training Certificate, June 2016
 * Selenium Webdriver with Python from Scartch + Frameworks, July 26, 2022
-* Some ongoing Udemy courses 
+* Pedagogical Formation Training Certificate, June 2016
 
 ## Exam Scores
 
