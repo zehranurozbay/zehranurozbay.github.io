@@ -107,7 +107,7 @@ redirect_from:
   
 ## Projects
 
-  <ul>{% for post in site.projects reversed %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
