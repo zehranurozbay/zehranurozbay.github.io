@@ -2,7 +2,7 @@
 title: "Cycle Decompositions of Graphs"
 collection: talks
 type: "Talk"
-permalink: /projects/1001-Project-Graphs
+permalink: /projects/
 venue: "Gebze Technical University"
 date: 2013-09-01
 location: "Gebze, Türkiye"
