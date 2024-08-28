@@ -1,7 +1,7 @@
 ---
 title: "Cycle Decompositions of Graphs"
-collection: projects
-type: "Project"
+collection: talks
+type: "Talk"
 permalink: /projects/1001-Project-Graphs
 venue: "Gebze Technical University"
 date: 2013-09-01
