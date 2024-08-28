@@ -1,8 +1,8 @@
 ---
 title: "Cycle Decompositions of Graphs"
 collection: projects
-type: "Talk"
-permalink: /projects/1001-project-graphs
+type: "Project"
+permalink: /projects/1001-project
 venue: "Gebze Technical University"
 date: 2013-09-01
 location: "Gebze, Türkiye"
