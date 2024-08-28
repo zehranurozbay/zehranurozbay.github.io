@@ -1,7 +1,7 @@
 ---
 title: "Cycle Decompositions of Graphs"
 collection: projects
-type: "Project"
+type: "Talk"
 permalink: /projects/1001-project
 excerpt: 'TUBITAK-1001 Project'
 venue: "Gebze Technical University"
