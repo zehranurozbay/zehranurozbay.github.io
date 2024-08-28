@@ -1,7 +1,7 @@
 ---
 title: "nDPI Derin Paket İnceleme Aracı Üzerinde Bir Çalışma"
 collection: publications
-permalink: https://dergipark.org.tr/tr/pub/tbbmd/issue/80549/1253700
+permalink: /publications/nDPI
 excerpt: 'In this paper, the open source nDPI library, which identifies packets using the DPI method, is discussed.'
 date: 2023-11-20
 venue: 'Türkiye Bilişim Vakfı Bilgisayar Bilimleri ve Mühendisliği Dergisi'
