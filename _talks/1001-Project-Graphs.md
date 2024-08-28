@@ -1,6 +1,6 @@
 ---
 title: "Cycle Decompositions of Graphs"
-collection: projects
+collection: talks
 type: "Talk"
 permalink: /projects/1001-Project-Graphs
 excerpt: 'TUBITAK-1001 Project'
