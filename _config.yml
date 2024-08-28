@@ -212,7 +212,10 @@ collections:
     permalink: /:collection/:path/
   talks:
     output: true
-    permalink: /projects/:path/
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 
 
@@ -271,6 +274,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+
 
 
 # Sass/SCSS
