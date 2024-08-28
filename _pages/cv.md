@@ -119,7 +119,7 @@ redirect_from:
 
 ## Certificates
 
-* Selenium Webdriver with Python from Scartch + Frameworks, July 26, 2022
+* Selenium Webdriver with Python from Scratch + Frameworks, July 26, 2022
 * Pedagogical Formation Training Certificate, June 2016
 
 ## Exam Scores

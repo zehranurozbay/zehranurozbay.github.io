@@ -1,6 +1,6 @@
 ---
 permalink: /quotes/
-title: "Some quotes i saved"
+title: "Some quotes I saved"
 author_profile: true
 ---
 
