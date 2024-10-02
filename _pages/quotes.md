@@ -4,7 +4,13 @@ title: "Some quotes I saved"
 author_profile: true
 ---
 
-> The only way to rectify our reasonings is to make them as tangible as those of the Mathematicians, so that we can find our error at a glance, and when there are disputes among persons, we can simply say: Let us calculate, without further ado, to see who is right. Gottfried wilhelm Leibniz
+> The only way to rectify our reasonings is to make them as tangible as those of the Mathematicians, so that we can find our error at a glance, and when there are disputes among persons, we can simply say: Let us calculate, without further ado, to see who is right. Gottfried Wilhelm Leibniz
+
+> Sometimes, carrying on, just carrying on, is the superhuman achievement. Albert Camus
+
+> Almost always, the people who say “I am going to keep going until this works, and no matter what the challenges are I’m going to figure them out”, and mean it, go on to succeed. They are persistent long enough to give themselves a chance for luck to go their way.  Sam Altman
+
+> What I’m seeing is that people get so used to being short-changed out of real conversation, so used to getting by with less, that they’ve become almost willing to dispense with people altogether. We expect more from technology and less from each other. Sherry Turkle 
 
 > He who receives an idea from me, receives instruction himself without lessening mine; as he who lights his taper at mine, receives light without darkening me. Thomas Jefferson
 
