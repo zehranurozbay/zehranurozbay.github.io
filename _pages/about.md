@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student and research assistant at the Department of Information Technologies at Ege University International Computer Institute.
+I am a second year PhD student and research assistant at the Department of Information Technologies at Ege University International Computer Institute.
 My research interests are Information Security and Cryptology, Information Systems and Machine Learning lately. 
 
 
 <br><br>
-<!-- This picture was placed here just to keep this place from being empty. As Aristotle once said, "Nature abhors a vacuum".
-<img src="../images/birds.jpg"> -->
 
 
 | <img src="../images/birds.jpg"/> | 
