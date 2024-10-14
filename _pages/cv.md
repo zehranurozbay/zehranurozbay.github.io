@@ -25,9 +25,11 @@ redirect_from:
 
 **Note:**  There are some details that are more meaningful than your graduation date:
 
+* Artificial Intelligence
 * Algorithm Complexity Theory 
 * Internet of Things
   * Worked with microcontrollers including Arduino Uno and ESP32, utilizing sensors such as DHT, LDR, PIR, Tilt, HC-SR04, Piezo Knock, Water Level, Sound, and Potentiometer.
+    * Project: An IoT system was implemented that collects various measurements of a room through sensors and displays them on the screen.
 * Parallel Programming
   * Wrote programs using the MPI (Message Passing Interface) library for distributed computing, the Pthreads (POSIX Threads) library for shared memory parallelism, and the CUDA (Compute Unified Device Architecture) platform for GPU programming.
 * Advanced Computer Architecture
@@ -83,6 +85,7 @@ redirect_from:
 * Discrete Mathematics
 * Analytic Geometry
 * Technical English I
+  * Actually, we did mathematics under the name of "Technical English".
 * Fundamentals of Mathematics I
 * Calculus I
 
