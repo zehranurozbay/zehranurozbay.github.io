@@ -119,7 +119,10 @@ redirect_from:
 
 ## Certificates
 
+* Complete A.I. & Machine Learning, Data Science Bootcamp, October 14, 2024 from ZTM Academy
+
 * Selenium Webdriver with Python from Scratch + Frameworks, July 26, 2022
+
 * Pedagogical Formation Training Certificate, June 2016
 
 ## Exam Scores
