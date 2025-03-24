@@ -13,4 +13,3 @@ location: "Izmir, Turkey"
 * UBI 516 - Advanced Computer Graphics
 * UTİ 518 - Computer Graphics and Game Programming
 * UBI 528 & UTI 502 Network Security
-* UTI 526 - Object Oriented Programming 

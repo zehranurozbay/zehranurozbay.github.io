@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 
-* PhD in Information Technologies, Ege University, 2027 (expected)
+* Ph.D. in Information Technologies with GPA 4.00/4.00, Ege University, 2027 (expected)
 * M.Sc. in Information Technologies with GPA 3.93/4.00, Ege University, 2023
 * M.Sc. in Mathematics with GPA 3.64/4.00, Gebze Technical University, 2015 
 * B.Sc. in Mathematics (100% English) with GPA 3.41/4.00, Dokuz Eylul University, 2013
