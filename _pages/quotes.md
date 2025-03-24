@@ -68,7 +68,11 @@ author_profile: true
 
 > Greatness is not intelligence, greatness comes from character. Character is not formed from smart people, it's formed from people who suffered. Jensen Huang
 
-> Watch your thoughts, they become your words; watch your words, they become your actions; watch your actions, they become your habits; watch your habits, they become your character; watch your character, it becomes your destiny. Lao Tzu
+> Watch your thoughts, they become your words. 
+  Watch your words, they become your actions. 
+  Watch your actions, they become your habits.
+  Watch your habits, they become your character.
+  Watch your character, it becomes your destiny. Lao Tzu
 
 > OLD IRISH BLESSING
 May the road rise up to meet you.
