@@ -7,7 +7,6 @@ author_profile: true
 Welcome to my personal collection of recommendations and favorites — books, movies, series, blog posts and podcasts that have inspired, entertained, or influenced me.
 I plan to expand this page as I have time.
 
----
 
 ## Books
 
@@ -18,7 +17,7 @@ I plan to expand this page as I have time.
 - *I, Robot* by **Isaac Asimov**
 - *Foundation* by **Isaac Asimov**
 - *The Brain, the story of you* by **David Eagleman**
-- *Letting Go* by ***David R. Hawkins**
+- *Letting Go* by **David R. Hawkins**
 - *Power vs Force* by **David R. Hawkins**
 - *Sanma ki Yalnızsın* by **Elif Şafak**
 - *Hunger* by **Knut Hamsun**
@@ -28,7 +27,7 @@ I plan to expand this page as I have time.
 - *The Midnight Library* by **Matt Haig**
 - *Outliers* by **Malcolm Gladwell**
 - *Ikigai* by **Francesc Miralles, Hector Garcia**
----
+
 
 ## Films
 
@@ -54,7 +53,6 @@ I plan to expand this page as I have time.
 - **Interstellar**
 - All movies made by Hayao Miyazaki - _Totoro fav. character_
 
----
 
 ## TV Series
 
@@ -75,19 +73,14 @@ I plan to expand this page as I have time.
 - **Locke & Key**
 
 
----
-
 ## Blog Pages
 
 - [Dünya Halleri](https://bulten.mserdark.com/) – _Çok güzel_
 - [Sam Altman's Blog Page](https://blog.samaltman.com/) 
 - [Rest of World](https://restofworld.org/) 
 
----
 
 ## Podcasts
 
 - [Haddini Aşan Yaşam Rehberi](https://open.spotify.com/show/6FE15npKH09vHC7AIgHxH8) 
 - [Nasıl Olunur](https://open.spotify.com/show/1q6zr0Va8JXmTrcfqRTcJO) 
-
----
