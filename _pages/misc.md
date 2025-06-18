@@ -1,4 +1,8 @@
-# Miscellaneous
+---
+permalink: /misc/
+title: "Miscellaneous"
+author_profile: true
+---
 
 Welcome to my personal collection of recommendations and favorites — books, movies, series, blog posts and podcasts that have inspired, entertained, or influenced me.
 I plan to expand this page as I have time.
