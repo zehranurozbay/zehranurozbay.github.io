@@ -92,7 +92,7 @@ redirect_from:
 ## Work Experience
 
 * March 2020- present: Research Assistant in Ege University, International Computer Institute.
-* 2016-2017: Mathematics Teacher in Assorted Middle Schools in Izmir.
+* 2016-2017: Mathematics Teacher in assorted middle schools in Izmir.
   
 ## Technical Skills
 
@@ -130,9 +130,9 @@ redirect_from:
 
 ## Exam Scores
 
-* ALES: 91/100
+* ALES: 91,49/100
   * Academic Personnel and Graduate Education Entrance Exam in Türkiye - similar to GRE/GMAT 
-* YDS: 91/100
+* YDS: 91,25/100
   * Foreign Language Knowledge Level Determination Exam in Türkiye
 * IELTS: Overall 7
   

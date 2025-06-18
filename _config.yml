@@ -24,7 +24,7 @@ author:
   avatar           : "profileImage2.jpg"
   name             : "Zehra Nur Özbay"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at Ege University International Computer Institute"
+  bio              : "PhD candidate at Ege University International Computer Institute"
   location         : "İzmir, Türkiye"
   employer         : "Ege University"
   uri              :  https://unisis.ege.edu.tr/researcher=zehra.nur.ozbay
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "www.linkedin.com/in/zehra-nur-özbay-a656a852"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
