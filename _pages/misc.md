@@ -73,11 +73,12 @@ I plan to expand this page as I have time.
 - **Locke & Key**
 
 
-## Blog Pages
+## Blog Pages & Newsletters
 
 - [Dünya Halleri](https://bulten.mserdark.com/) – _Çok güzel_
 - [Sam Altman's Blog Page](https://blog.samaltman.com/) 
 - [Rest of World](https://restofworld.org/) 
+- [Reads with Ravi](https://readswithravi.beehiiv.com/)
 
 
 ## Podcasts
