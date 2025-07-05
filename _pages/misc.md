@@ -9,6 +9,7 @@ I plan to expand this page as I have time.
 
 
 ## Books
+Note:  Including these books here does not mean that I endorse all of their content; however, they all provide me with diverse perspectives and opportunities for reflection.
 
 - *Why We Sleep* by **Matthew Walker**   
 - *Educated* by **Tara Westover**
@@ -38,6 +39,7 @@ I plan to expand this page as I have time.
 - **3 Idiots**
 - **Parasite** 
 - **Inception**
+- **Whiplash**
 - **Django Unchained**
 - **Inglourious Basterds**
 - **Seven**
