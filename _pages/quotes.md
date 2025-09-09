@@ -33,11 +33,13 @@ J.B. Pritzker -- on “How to spot an idiot” from Illinois Governor J.B. Pritz
 
 > He who receives an idea from me, receives instruction himself without lessening mine; as he who lights his taper at mine, receives light without darkening me. Thomas Jefferson
 
-> When you're in love, you want to tell the world. Carl Sagan
-
 > We must know. We will know. David Hilbert
 
 > The only true wisdom is in knowing you know nothing. Socrates 
+
+> Taught man that which he knew not. (Al-‘Alaq 96:5)
+
+> When you're in love, you want to tell the world. Carl Sagan
 
 > Don't compare your beginning to someone else's middle, or your middle to someone else's end. Jon Acuff
 
