@@ -8,6 +8,17 @@ author_profile: true
 
 > Sometimes, carrying on, just carrying on, is the superhuman achievement. Albert Camus
 
+> We cannot understand the true nature of the Universe, unless we question deeply. I want to know what is real, even if the answer is total obliteration of my consciousness. Elon Musk 
+
+> Labor omnia vincit improbus. Publius Vergilius Maro
+
+> Every day one should at least hear one little song, read one good poem, see one fine painting and - if at all possible - speak a few sensible words. Johann Wolfgang von Goethe
+
+> Over my many years in politics and business, I have found one thing to be universally true. The kindest person in the room is often the smartest.
+J.B. Pritzker -- on “How to spot an idiot” from Illinois Governor J.B. Pritzker's commencement speech. [Full Text Link](https://speakola.com/grad/jb-pritzker-dont-trust-idiots-northwestern-university-2023)
+
+> Every act or decision we make that supports life supports all life, including our own. The ripples we create return to us. Dr. David R. Hawkins 
+
 > Almost always, the people who say “I am going to keep going until this works, and no matter what the challenges are I’m going to figure them out”, and mean it, go on to succeed. They are persistent long enough to give themselves a chance for luck to go their way.  Sam Altman
 
 > What I’m seeing is that people get so used to being short-changed out of real conversation, so used to getting by with less, that they’ve become almost willing to dispense with people altogether. We expect more from technology and less from each other. Sherry Turkle 
