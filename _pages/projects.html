@@ -4,6 +4,9 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-{% for project in site.projects reversed %}
-  {% include archive-single-talk.html type="projects" %}
+
+<ul>
+{% for project in site.projects %}
+  <li><a href="{{ project.url }}">{{ project.title }}</a></li>
 {% endfor %}
+</ul>
