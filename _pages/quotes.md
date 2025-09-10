@@ -12,7 +12,7 @@ author_profile: true
 
 > Reality is for people that lacks imagination. Hayao Miyazaki
 
-> Labor omnia vincit improbus. Publius Vergilius Maro
+> Labor omnia vincit. Publius Vergilius Maro
 
 > The two most powerful warriors are patience and time. Leo Tolstoy
 
