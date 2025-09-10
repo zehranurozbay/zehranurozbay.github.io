@@ -2,11 +2,12 @@
 layout: archive
 title: "Projects"
 permalink: /projects/
-author_profile: true
 ---
 
 <ul>
-{% for project in site.projects %}
-  <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+{% for project in site.pages %}
+  {% if project.url contains '/projects/' %}
+    <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+  {% endif %}
 {% endfor %}
 </ul>
