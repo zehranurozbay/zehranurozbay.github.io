@@ -10,6 +10,13 @@ author_profile: true
 
 > We cannot understand the true nature of the Universe, unless we question deeply. I want to know what is real, even if the answer is total obliteration of my consciousness. Elon Musk 
 
+> You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete. 
+Richard Buckminster Fuller
+
+> I didn’t see it then, but it turned out that getting fired from Apple was the best thing that could have ever happened to me. The heaviness of being successful was replaced by the lightness of being a beginner again, less sure about everything.  It freed me to enter one of the most creative periods of my life. Steve Jobs
+
+> One must have chaos in oneself to give birth to a dancing star. Friedrich Nietzsche, Thus Spoke Zarathustra
+
 > Reality is for people that lacks imagination. Hayao Miyazaki
 
 > Labor omnia vincit. Publius Vergilius Maro
@@ -39,6 +46,8 @@ J.B. Pritzker -- on “How to spot an idiot” from Illinois Governor J.B. Pritz
 
 > Taught man that which he knew not. (Al-‘Alaq 96:5)
 
+> Dare to be naïve. Richard Buckminster Fuller
+
 > When you're in love, you want to tell the world. Carl Sagan
 
 > Don't compare your beginning to someone else's middle, or your middle to someone else's end. Jon Acuff
@@ -52,8 +61,6 @@ J.B. Pritzker -- on “How to spot an idiot” from Illinois Governor J.B. Pritz
 > Compassion is the basis of morality. Arthur Schopenhauer
 
 > We started with nothing. So whenever you start with nothing, you can always shoot for the moon. You have nothing to lose. Steve Jobs
-
-> You never achieve what you want without falling on your face a few times. Steve Jobs 
 
 > The most important thing in communication is to hear what is not being said. Carl Gustav Jung
 
@@ -69,11 +76,17 @@ J.B. Pritzker -- on “How to spot an idiot” from Illinois Governor J.B. Pritz
 
 > Slow success builds character, and fast success builds ego. Ratan Tata
 
-> In academia, we don't say "I love you" we say "I am accepting your paper with no request for revisions. Prof. Lennart Nacke
+> Train yourself to let go of everything you fear to lose. Yoda, Star Wars episode 3,  revenge of the Sith
+
+> One of the things I always tried to coach myself on was not being afraid to fail. Steve Jobs
+
+> Sometimes you have to destroy a part of your life to let the next big thing enter. Vishen Lakhiani
 
 > If you crush a cockroach, you're a hero. If you crush a beautiful butterfly, you're a villain. Morals have aesthetic criteria. Friedrich Nietzsche 
 
 > Rudeness is merely the expression of fear. People fear they won't get what they want. The most dreadful and unattractive person only needs to be loved, and they will open up like a flower. M. Gustave / The Grand Budapest Hotel
+
+> I have long really held the opinion that the amount of noise which any one can bear undisturbed stands in inverse proportion to his mental capacity, and therefore may be regarded as a pretty fair measure of it. Arthur Schopenhauer, The World as Will and Representation (1819)
 
 > As you start to walk on the way, the way appears. Rumi
 
