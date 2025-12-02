@@ -112,7 +112,7 @@ redirect_from:
 
   [Projects](https://zehranurozbay.github.io/projects/)
   
-## Assited Courses
+## Assisted Courses
 
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
