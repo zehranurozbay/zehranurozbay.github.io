@@ -28,6 +28,7 @@ Note:  Including these books here does not mean that I endorse all of their cont
 - *The Midnight Library* by **Matt Haig**
 - *Outliers* by **Malcolm Gladwell**
 - *Ikigai* by **Francesc Miralles, Hector Garcia**
+- *Meditations* by **Marcus Aurelius**
 
 
 ## Films
@@ -50,7 +51,6 @@ Note:  Including these books here does not mean that I endorse all of their cont
 - **The Twilight Saga**
 - **Marvel Superhero Films**
 - **Tolkien Film Series**
-- **The Avatar Saga** 
 - **The Matrix Saga**
 - **Interstellar**
 - All movies made by Hayao Miyazaki - _Totoro fav. character_
@@ -62,7 +62,7 @@ Note:  Including these books here does not mean that I endorse all of their cont
 - **Twenty-Five Twenty-One**
 - **Mr. Sunshine**
 - **When Life Gives You Tangerines**
-- **The Heirs**
+- **Typhoon Family**
 - **Oh My Venus**
 - **Crash Landing on You**
 - **Squid Game**
