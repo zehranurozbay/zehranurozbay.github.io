@@ -11,10 +11,6 @@ Between September 2024 and November 2025, I coordinated the “Don’t Throw It 
 
 #### Some photos from the project
 
-1. ![Cluster of radios][radios]
-2. ![A computer tower][computer-tower-image]
-3. ![A keyboard][keyboard-image]
-
-[keyboard-image]: images/keyboard.jpg
-[computer-tower-image]: images\computer-tower.jpg
-[radios]:images\radios.jpg
+1. ![Cluster of radios](../images/radios.jpg)
+2. ![A computer tower](../images/computer-tower.jpg)
+3. ![A keyboard](../images/keyboard.jpg)
