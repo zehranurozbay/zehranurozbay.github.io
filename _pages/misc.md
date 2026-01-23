@@ -12,8 +12,10 @@ I plan to expand this page as I have time.
 Note:  Including these books here does not mean that I endorse all of their content; however, they all provide me with diverse perspectives and opportunities for reflection.
 
 - *Why We Sleep* by **Matthew Walker**   
+- *On Writing* by **Stephen King**
 - *Educated* by **Tara Westover**
 - *Life 3.0* by **Max Tegmark**
+- *The Coming Wave* by **Mustafa Süleyman**
 - *To Kill a Mockingbird* by **Harper Lee** 
 - *I, Robot* by **Isaac Asimov**
 - *Foundation* by **Isaac Asimov**
@@ -49,7 +51,6 @@ Note:  Including these books here does not mean that I endorse all of their cont
 - **Gone with the Wind**
 - **The Suicide Squad**
 - **The Twilight Saga**
-- **Marvel Superhero Films**
 - **Tolkien Film Series**
 - **The Matrix Saga**
 - **Interstellar**
@@ -73,6 +74,7 @@ Note:  Including these books here does not mean that I endorse all of their cont
 - **3 Body Problem**
 - **The Umbrella Academy**
 - **Locke & Key**
+- **Demon Slayer**
 
 
 ## Blog Pages & Newsletters
