@@ -120,9 +120,15 @@ redirect_from:
 
 ## Certificates
 
-* Complete A.I. & Machine Learning, Data Science Bootcamp, October 14, 2024 from ZTM Academy
+* Structuring Machine Lerning Projects, DeepLearning.AI, February 1, 2026 [Cert Link](https://coursera.org/share/f7570d1b5fc293f14e75c02ba1cb55ff)
 
-* Selenium Webdriver with Python from Scratch + Frameworks, July 26, 2022
+* Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization, DeepLearning.AI, January 18, 2026 [Cert Link](https://coursera.org/share/d4cb5ed082de3518482f085fb5147135)
+
+* Neural Networks and Deep Learning, DeepLearning.AI, December 25, 2025 [Cert Link](https://coursera.org/share/52c1296eeeb3f16b2bb5c773e8a82b23)
+
+* Complete A.I. & Machine Learning, Data Science Bootcamp, ZTM Academy, October 14, 2024 [Cert Link](ude.my/UC-d2ce5392-01be-4970-861e-cd63ad968fcf)
+
+* Selenium Webdriver with Python from Scratch + Frameworks, Rahul Shetty Academy, July 26, 2022 [Cert Link](https://www.udemy.com/certificate/UC-4501f969-0c4c-40c5-827a-f1e6692ba7e9/)
 
 * Pedagogical Formation Training Certificate, June 2016
 
