@@ -1,10 +1,10 @@
 ---
-title: "23-24 Spring"
+title: "25-26 Spring"
 collection: teaching
 type: "Graduate courses"
-permalink: /teaching/23-24-Spring
+permalink: /teaching/25-26-Spring
 venue: "Ege University, International Computer Institute"
-date: 2024-02-01
+date: 2026-02-01
 location: "Izmir, Turkey"
 ---
 
@@ -12,5 +12,5 @@ location: "Izmir, Turkey"
 
 * UBI 516 Advanced Computer Graphics
 * UTİ 518 Computer Graphics and Game Programming
-* UBI 528 & UTI 502 Network Security
-
+* UBI 528 Network Security
+* UBI 522 Machine Learning

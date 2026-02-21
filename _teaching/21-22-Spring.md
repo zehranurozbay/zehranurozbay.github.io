@@ -10,6 +10,6 @@ location: "Izmir, Turkey"
 
 <!--  This is a description of a teaching experience. You can use markdown like any other post. -->
 
-* UBI 516 - Advanced Computer Graphics
-* UTİ 518 - Computer Graphics and Game Programming
-* UBI 506 - Operating Systems 
+* UBI 516 Advanced Computer Graphics
+* UTİ 518 Computer Graphics and Game Programming
+* UBI 506 Operating Systems 
