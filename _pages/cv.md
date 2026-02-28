@@ -12,5 +12,5 @@ redirect_from:
 <object data="{{ base_path }}/files/Zehra_Nur_Ozbay___Curriculum_Vitae.pdf" 
         type="application/pdf" 
         width="100%" 
-        height="800px">
+        style="height: 100vh;">
 </object>
