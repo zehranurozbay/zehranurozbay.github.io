@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="{{ base_path }}/files/Zehra_Nur_Ozbay_CV.pdf" 
+<object data="{{ base_path }}/files/Zehra_Nur_Ozbay___Curriculum_Vitae.pdf" 
         type="application/pdf" 
         width="100%" 
         height="800px">
