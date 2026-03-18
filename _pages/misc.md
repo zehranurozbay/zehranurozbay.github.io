@@ -64,6 +64,7 @@ Note:  Including these books here does not mean that I endorse all of their cont
 - **Mr. Sunshine**
 - **When Life Gives You Tangerines**
 - **Typhoon Family**
+- **Boys Over Flowers**
 - **Oh My Venus**
 - **Crash Landing on You**
 - **Squid Game**
