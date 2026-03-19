@@ -103,3 +103,4 @@ Note:  Including these books here does not mean that I endorse all of their cont
 - [Not for Private Gain, An Open Letter](https://notforprivategain.org/)
 - [Wait But Why](https://waitbutwhy.com/)
 - [Kesişen Yollar](https://www.youtube.com/c/Kesi%C5%9FenYollarDerne%C4%9Fi)
+- [What I’m Listening To](https://open.spotify.com/playlist/73lQgfYuyJB99RYxiEvo9f?si=6E6wyd8RRQqzJNkwM3XcbQ)
