@@ -50,7 +50,6 @@ Note:  Including these books here does not mean that I endorse all of their cont
 - **Schindler's List**
 - **Gone with the Wind**
 - **The Suicide Squad**
-- **The Twilight Saga**
 - **Tolkien Film Series**
 - **The Matrix Saga**
 - **Interstellar**
